@@ -14,7 +14,7 @@
     
     4% automatically redistributed as DAI, no need to claim.
     
-    5% marketing
+    3% marketing
 
     3% buy back
   
